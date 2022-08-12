@@ -49,3 +49,4 @@ mod tests {
 }
 
 // https://stackoverflow.com/questions/32050478/how-to-test-a-function-with-a-callback
+// https://jsdw.me/posts/rust-fn-traits/#:~:text=As%20a%20refresher%2C%20when%20we%20want%20to%20pass,book%20covers%20that%29%2C%20but%20to%20sum%20it%20up%3A
